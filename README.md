@@ -10,3 +10,10 @@ A Java implementation of a state machine modeled radio with a graphical interfac
 * On/Off: Changes state to on or off
 * Scan: Changes state to scanning
 * Reset: Resets radio to top frequency
+## How to Run
+1. Install java
+2. Compile and run
+```
+javac Radio.java
+java Radio
+```
